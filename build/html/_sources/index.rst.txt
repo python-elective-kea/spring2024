@@ -6,7 +6,9 @@
 
 Introduction to python spring 2024
 ===================================
-        The joy of coding Python should be in seeing short, concise, readable classes that express a lot of action in a small amount of clear code — not in reams of trivial code that bores the reader to death.   - Guido van Rossum
+        The joy of coding Python should be in seeing short, concise, readable classes that express a lot of action in a small amount of clear code — not in reams of trivial code that bores the reader to death.   
+        
+                                        - Guido van Rossum
 
 Elective website for the “Introduction to python spring 2024” at KEA, Copenhagen School of Design and Technology.
 
