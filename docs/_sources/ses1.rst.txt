@@ -13,7 +13,7 @@ In the second part you will get an overview of the python language and you will 
                 Before we meet in class you should have:
         
                 * Done the `Installations <notebooks/installation.md>`_ (10 min)
-                * Read through `About this elective <about.rst>`_(5 min)
+                * Read through `About this elective <about.rst>`_ (5 min)
                 * Skimmed the rest of the session pages (in the left menu) (10 min)
                 * Looked this video: `Guido van Rossum explains Python programming <https://www.youtube.com/watch?v=5fN3JXwer2U>`_ (20 min)
      
