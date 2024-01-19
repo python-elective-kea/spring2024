@@ -1,0 +1,49 @@
+Exam
+====
+In this document you can find all information about the exam at the end of this semester. 
+
+The exam is evaluated based on the 7 step scale and you are evaluated on how good you have accuired the following learning goals:
+
+.. include:: goals/overall.rst
+
+--------
+The exam
+--------
+
+The exam consist of 2 elements: 
+
+* Hand in of an "outline", or "exam synopsis", and an 
+* Oral exam.
+
+Hand-in a synopsis:
+*******************
+
+Some weeks before the oral examination you should hand in a exam synopsis on wiseflow. If you fail to do so, you will not be able to attend the oral exam. The synopsis should follow these requirements:
+
+* One A4 page (all topics should be on one page!)
+* Give a short overview of what you will present at your exam.
+* (`You can see and example template here <notebooks/exam_synopsis_template.md>`_.
+
+Remember, a good synopsis or "abstract" clearly and concisely presents your topic, the purpose of your presentation, and the main points you will cover. It makes it easier for those assessing you to follow your presentation and judge you fairly.
+
+Oral exam:
+**********
+
+* Prior to the exam you should have prepared a 10 minutes presentation for each of the 3 topics. At the beginnig of the examination you then randomly pick a topic to focus on for your examination.
+* Do a 10 minutes presentation with code examples for the picked topic.
+* After your presentation 12 minutes examination within this topic and other related topics.
+
+-----------
+Exam Topics
+-----------
+
+At your exam you should demonstrate to wich extend you fullfill the learning goals of this elective. 
+This you should do through demonstrating your knowlege, skills and competencies within these topics. 
+
+        1. Pythonic one-liners
+        2. Pythonic OOP
+        3. Build in functions and pythonic polymorphism
+        4. Functions & Decorators
+
+You can get inspiration about what to talk about within each topic in your presentation `here <_notebooks/exam_synopsis_template.md>`_.
+
