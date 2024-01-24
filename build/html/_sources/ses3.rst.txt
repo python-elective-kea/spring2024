@@ -82,6 +82,7 @@ After this week you will be able to work with:
 Materials
 ---------
 * `List comprehensions 101 <https://mathspp.com/blog/pydonts/list-comprehensions-101>`_
+* `When to Use a List Comprehension in Python <https://realpython.com/list-comprehension-python/>`_
 * `Listcomprehensions for map, filter, reduce <notebooks/listcomprehensions_map_filter.rst>`_
 * `Python google class on sorting <https://youtu.be/EPYupizJYQI?si=P99QZxtQ_CVHA7H3&t=840>`_ 
 * `sorted() build-in function <https://docs.python.org/3/library/functions.html#sorted>`_
