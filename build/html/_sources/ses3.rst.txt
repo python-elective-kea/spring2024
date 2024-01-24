@@ -60,7 +60,8 @@ The tendencies for python programmers to write code in this short and concise wa
 
                 * `Python google class on sorting <https://youtu.be/EPYupizJYQI?si=P99QZxtQ_CVHA7H3&t=840>`_ (20 min)       
                 * `List comprehensions 101 <https://mathspp.com/blog/pydonts/list-comprehensions-101>`_ (30 min)
-
+                * `When to Use a List Comprehension in Python <https://realpython.com/list-comprehension-python/>`_ (30m - 1h)
+        
         Time in class
                 * `Teachers notes <notebooks/one_liners.ipynb>`_
         Homework
