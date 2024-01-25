@@ -128,11 +128,13 @@ Storebæltsbroen (the company) owns more bridges and they would like to know how
    
    <hr>
 
-List & Tuples exercises
------------------------
+List & Tuples, Set, Dict exercises
+----------------------------------
 `Solution <exercises/solution/02_lists/sorted_exercises.rst>`_
 
 * `List & tuple exercises <exercises/lists/lists.rst>`_
+* `Set exercises <https://github.com/python-elective-kea/spring2024-code-examples-from-teachings/blob/master/ses2/exercises/sets.py>`_
+* `Dict exercises <https://github.com/python-elective-kea/spring2024-code-examples-from-teachings/blob/master/ses2/exercises/dict.py>`_
 
 ------
 quizes
