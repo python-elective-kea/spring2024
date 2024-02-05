@@ -41,6 +41,7 @@
     "You can find all methods by using ```help(s)```     \n",
     "\n",
     "The most usefull ones are:\n",
+    "\n",
     "* Union , |    \n",
     "* intersection, &    \n",
     "* difference, -\n",
