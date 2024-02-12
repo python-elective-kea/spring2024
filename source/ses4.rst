@@ -5,7 +5,7 @@ Session 4 -  Mandatory 1: Files, Modules & LLM
    
    `Fill out this questionary and hand it in latest friday the 23rd of February 16.00. <https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1214815>`_
 
-Todays reading materials, exercises and hand-in is your first **mandatory assignment**. You should study the topics on your own, or in groups if you prefere. In the end you should fill out a questionary which should be handed in on Fronter latest. The hand-in is the formal submission of the mandatory, and will be evaluated as "passed" or "non-passed". 
+Todays reading materials, exercises and hand-in is your first **mandatory assignment**. You should study the topics on your own, or in groups if you prefere. In the end you should fill out a questionary which should be handed in on Fronter. The hand-in is the formal submission of the mandatory, and will be evaluated as "passed" or "non-passed". 
 
 The topics today will be about modules in Python. You will create your own modules, learn how to use Python's built-in modules and work with 3rd party modules.
 You will also work with files in different formats like text, json and sqllite files.
