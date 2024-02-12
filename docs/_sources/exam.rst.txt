@@ -47,3 +47,11 @@ This you should do through demonstrating your knowlege, skills and competencies 
 
 You can get inspiration about what to talk about within each topic in your presentation `here <_notebooks/exam_synopsis_template.md>`_.
 
+Good advice regarding the exam
+******************************
+
+----------
+Use of LLM
+----------
+I expect that you have used some kind of LLM during this semester and also that you have used it to prepare for your exam, both the hand-in part and what you present at the actual examination. So you do not have to hide it.
+

@@ -82,7 +82,8 @@ Ex: Sqlite in Python
 Ex: subprocess
 **************
 
-Clone this respository :code:`https://github.com/python-elective-kea/spring2024.git`
+1. Clone this respository :code:`https://github.com/python-elective-kea/spring2024.git`
+2. open the index.html file from the docs folder in your browser.
 
 .. raw:: html
    
