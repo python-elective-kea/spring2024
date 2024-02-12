@@ -12,8 +12,8 @@ Dockerfile
 #/docs/exercises/solution/01_strings/*
 
 #02 - Data Structures
-/sphinx/build/html/exercises/solution/02_lists/*
-/docs/exercises/solution/02_lists/*
+#/sphinx/build/html/exercises/solution/02_lists/*
+#/docs/exercises/solution/02_lists/*
 
 #04 - Files, Modules & LLM
 /sphinx/build/html/exercises/solution/04_os_sub_req/*
