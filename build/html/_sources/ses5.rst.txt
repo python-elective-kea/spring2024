@@ -1,6 +1,9 @@
 Session 5 - Utilities and Modules
 =================================
 
+.. danger::
+        This lecture was cancelled, but the content will be covered during several of the next sessions. I have also added an extra session at the end of the semester, although it will cover a different topic.
+
 Today, we will continue working with modules, focusing specifically on a third-party module called 'BeautifulSoup' used for webscrabing and a like. Additionally, you will learn how to persistently save your installed modules (done using pip install) and save your requirements for version control of your projects packages.
 
 
