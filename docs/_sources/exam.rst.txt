@@ -40,10 +40,10 @@ Exam Topics
 At your exam you should demonstrate to wich extend you fullfill the learning goals of this elective. 
 This you should do through demonstrating your knowlege, skills and competencies within these topics. 
 
-        1. Pythonic one-liners
+        1. Pythons datastructures
         2. Pythonic OOP
-        3. Build in functions and pythonic polymorphism
-        4. Functions & Decorators
+        3. Functions in python (Build-in functions, functions in general, decorators e.g)
+        4. Data analyse & visualization 
 
 You can get inspiration about what to talk about within each topic in your presentation `here <_notebooks/exam_synopsis_template.md>`_.
 
