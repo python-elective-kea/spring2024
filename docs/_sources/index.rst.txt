@@ -95,7 +95,6 @@ These pages contains everything you need for this elective. A few resources, lik
    ses4
    ses5
    ses6
-   ses7
    ses8
    ses9
    ses10
