@@ -18,6 +18,7 @@ Learning goals
 
 Materials
 ---------
+* `Jupyter Notebook <notebooks/jupyter_notebook.md>`_
 
 Exercises
 ---------
