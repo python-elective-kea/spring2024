@@ -221,7 +221,7 @@ You can du that by either reading this article <a class="reference external" hre
 <h2>Exercises<a class="headerlink" href="#exercises" title="Permalink to this heading"></a></h2>
 <section id="warm-up-functions-exercises">
 <h3>Warm up functions exercises<a class="headerlink" href="#warm-up-functions-exercises" title="Permalink to this heading"></a></h3>
-<p>Solution</p>
+<p><a class="reference external" href="exercises/solution/08_decorators/solutions.rst">Solution</a></p>
 <p>Think about the each of the following functions and determain what are the:</p>
 <ul class="simple">
 <li><p>return value</p></li>
@@ -230,8 +230,8 @@ You can du that by either reading this article <a class="reference external" hre
 <li><p>parameter value</p></li>
 </ul>
 <p><strong>example1</strong></p>
-<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span> <span class="nf">add</span><span class="p">():</span>
-<span class="linenos">2</span>     <span class="k">pass</span>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span> <span class="nf">add</span><span class="p">(</span><span class="n">num1</span><span class="p">,</span> <span class="n">num2</span><span class="p">):</span>
+<span class="linenos">2</span>     <span class="k">return</span> <span class="n">num1</span> <span class="o">+</span> <span class="n">num2</span>
 </pre></div>
 </div>
 <p><strong>example2</strong></p>
@@ -240,13 +240,21 @@ You can du that by either reading this article <a class="reference external" hre
 </pre></div>
 </div>
 <p><strong>example3</strong></p>
-<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span> <span class="nf">add</span><span class="p">(</span><span class="n">num</span><span class="p">):</span>
-<span class="linenos">2</span>     <span class="k">return</span> <span class="n">num</span> <span class="o">+</span> <span class="n">num</span>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span> <span class="nf">add</span><span class="p">():</span>
+<span class="linenos">2</span>     <span class="k">pass</span>
 </pre></div>
 </div>
 <p><strong>example4</strong></p>
 <div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span> <span class="nf">add</span><span class="p">(</span><span class="o">*</span><span class="n">args</span><span class="p">):</span>
 <span class="linenos">2</span>     <span class="k">return</span> <span class="nb">sum</span><span class="p">(</span><span class="n">args</span><span class="p">)</span>
+</pre></div>
+</div>
+<p><strong>example5</strong></p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span> <span class="nf">msg</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">):</span>
+<span class="linenos">2</span>     <span class="k">return</span> <span class="n">x</span><span class="p">(</span><span class="n">y</span><span class="p">)</span>
+<span class="linenos">3</span>
+<span class="linenos">4</span><span class="c1"># what does this one return, what are the parameters??</span>
+<span class="linenos">5</span><span class="n">msg</span><span class="p">(</span><span class="nb">len</span><span class="p">,</span> <span class="s1">&#39;Hello&#39;</span><span class="p">)</span>
 </pre></div>
 </div>
 <hr></section>
@@ -273,7 +281,7 @@ Lets start with the first question
 <hr></section>
 <section id="ex-decorating-add">
 <h3>Ex: decorating add<a class="headerlink" href="#ex-decorating-add" title="Permalink to this heading"></a></h3>
-<p>Solution</p>
+<p><a class="reference external" href="exercises/solution/08_decorators/solutions.rst">Solution</a></p>
 <p>With this function as a starting point</p>
 <div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span> <span class="nf">add</span><span class="p">(</span><span class="o">*</span><span class="n">args</span><span class="p">):</span>
 <span class="linenos">2</span>    <span class="k">return</span> <span class="nb">sum</span><span class="p">(</span><span class="n">args</span><span class="p">)</span>
@@ -288,7 +296,7 @@ Lets start with the first question
 <hr></section>
 <section id="ex-time-it">
 <h3>Ex: Time it!<a class="headerlink" href="#ex-time-it" title="Permalink to this heading"></a></h3>
-<p>Solution</p>
+<p><a class="reference external" href="exercises/solution/08_decorators/solutions.rst">Solution</a></p>
 <p>If you want to messure how much time it takes to execute a piece of code you could do the followin:</p>
 <div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="kn">import</span> <span class="nn">time</span>
 <span class="linenos">2</span>
@@ -309,7 +317,7 @@ Lets start with the first question
 <hr></section>
 <section id="ex-decorating-game-characters">
 <h3>Ex: Decorating Game Characters<a class="headerlink" href="#ex-decorating-game-characters" title="Permalink to this heading"></a></h3>
-<p>Solution</p>
+<p><a class="reference external" href="exercises/solution/08_decorators/solutions.rst">Solution</a></p>
 <p><strong>Background</strong>
 In the world of computer games, every character has a unique skill or ability that makes them special. For example, a character might have the ability to shoot accurately, move stealthily, or hack into computers.</p>
 <p>We’re going to use Python decorators to add unique skills or abilities to game characters.</p>
@@ -344,7 +352,7 @@ Here’s an example of how the decorator might be used:</p>
 </section>
 <section id="ex-menu-register">
 <h2>Ex: Menu register<a class="headerlink" href="#ex-menu-register" title="Permalink to this heading"></a></h2>
-<p>Solution</p>
+<p><a class="reference external" href="exercises/solution/08_decorators/solutions.rst">Solution</a></p>
 <p>In this exercise you should create a register.</p>
 <p>When a new function is made you should by decorating it add it to a register (e.g a dictionary, or a list).</p>
 <p>This functionality would be something that could be used in web applikation frameworks like Django or Flask. When ever a new function (a route or a page) is created and decorated this register could be used for a meny or many things like this.</p>

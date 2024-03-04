@@ -119,14 +119,14 @@ Think about the each of the following functions and determain what are the:
 * parameter type
 * parameter value
 
-
-**example1** 
+**example1**
 
 .. code:: python
    :linenos:
 
-   def add():
-        pass
+   def add(num1, num2):
+        return num1 + num2
+
 
 **example2**
 
@@ -136,13 +136,14 @@ Think about the each of the following functions and determain what are the:
    def add():
         print('Hello')
 
-**example3**
+**example3** 
 
 .. code:: python
    :linenos:
 
-   def add(num):
-        return num + num
+   def add():
+        pass
+
 
 **example4**
 
@@ -151,6 +152,19 @@ Think about the each of the following functions and determain what are the:
 
    def add(*args):
         return sum(args)
+
+
+**example5**
+
+.. code:: python
+   :linenos:
+
+   def msg(x, y):
+        return x(y)
+        
+   # what does this one return, what are the parameters??
+   msg(len, 'Hello')
+
 
 .. raw:: html
    

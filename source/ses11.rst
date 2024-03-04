@@ -3,7 +3,6 @@ Session 11 - Datanalyse og visualisering
 
 
 
-
 .. tip::
         Preperation
 
