@@ -170,32 +170,6 @@ Think about the each of the following functions and determain what are the:
    
    <hr>
 
--------------------------------
-Ex: Decorator skills evaluation
--------------------------------
-Copy/paste this in "your" ChatGpt prompt.
-The recursing evaluation will work best with GPT4 (the paid version) but it is also ok i with gpt3 (used by the free version)
-
-.. code::
-
-        I want to get a score of how well my python programming is with the focus on pythons decorator functions. The score should be from 1 to 10.
- 
-        You should give me exercises one at a time. The exercise need to be solved with code. The exercises should match the level you think i am at.
-       
-        Among other things, you should test me in both the `@decorator` annotation or the `func = decorator(func)` syntax.
-
-        You will provide the exercise and i will give you code. For each exercise write what level you think i am at
- 
-        When you are confident of my level generate a report. The report should contain the following
-        1. The level you think i am at
-        2. Feedback on the code i wrote
-        3. Where i should focus to improve
- 
-        Lets start with the first question 
-
-.. raw:: html
-   
-   <hr>
 
 ------------------
 Ex: decorating add
@@ -251,6 +225,33 @@ You can read about time by starting your interpretor and write:
 
    > import time
    > help(time)
+
+.. raw:: html
+   
+   <hr>
+
+-------------------------------
+Ex: Decorator skills evaluation
+-------------------------------
+Copy/paste this in "your" ChatGpt prompt.
+The recursing evaluation will work best with GPT4 (the paid version) but it is also ok i with gpt3 (used by the free version)
+
+.. code::
+
+        I want to get a score of how well my python programming is with the focus on pythons decorator functions. The score should be from 1 to 10.
+ 
+        You should give me exercises one at a time. The exercise need to be solved with code. The exercises should match the level you think i am at.
+       
+        Among other things, you should test me in both the `@decorator` annotation or the `func = decorator(func)` syntax.
+
+        You will provide the exercise and i will give you code. For each exercise write what level you think i am at
+ 
+        When you are confident of my level generate a report. The report should contain the following
+        1. The level you think i am at
+        2. Feedback on the code i wrote
+        3. Where i should focus to improve
+ 
+        Lets start with the first question 
 
 .. raw:: html
    
