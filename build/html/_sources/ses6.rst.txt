@@ -315,7 +315,7 @@ In this exercise you should create a register.
 
 When a new function is made you should by decorating it add it to a register (e.g a dictionary, or a list).
 
-This functionality would be something that could be used in web applikation frameworks like Django or Flask. When ever a new function (a route or a page) is created and decorated this register could be used for a meny or many things like this. 
+This functionality would be something that could be used in web application frameworks like Django or Flask. When ever a new function (a route or a page) is created and decorated this register could be used for a menu or things like this. 
 
 Example:
 
