@@ -53,5 +53,6 @@ Good advice regarding the exam
 ----------
 Use of LLM
 ----------
-I expect that you have used some kind of LLM during this semester and also that you have used it to prepare for your exam, both the hand-in part and what you present at the actual examination. So you do not have to hide it.
+I expect that you have used some kind of LLM during this semester and also that you have used it to prepare for your exam, both the hand-in part and what you present at the actual examination (Power points, code examples e.g). So you do not have to hide it, and it is not considered as cheating in this elective using an LLM.    
+On the other hand you will not get much credit for having the perfect code example but not being able to explain or talk about it. So be sure to be able to explain your code examples in details at the exam. You will not be graded on having a good example, but on how good you are to explain the example. 
 
