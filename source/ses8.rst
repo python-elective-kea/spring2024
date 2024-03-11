@@ -95,22 +95,6 @@ Stick to the techniques we have covered so far.
    
    <hr>
 
-
-
----------------------------
-EX 2: Sorting the Customers
----------------------------
-
-Use the code created above.  
-
-* Sort based on Customer names
-* Sort based on amount of money the Customer has on the account 
-* Sort based on Customer and then on the amount. (hint: return a tuple)
-
-.. raw:: html
-   
-   <hr>
-
 -------------------------------
 Ex 1a: Python skills Evaluation
 -------------------------------
@@ -137,6 +121,20 @@ The recursing evaluation will work best with GPT4 (the paid version) but it is a
 .. note::
    Remember your skills in Pythonic OOP might not be like an "expert" yet. But in a few weeks you can try it again and should get a better result.
 
+
+---------------------------
+EX 2: Sorting the Customers
+---------------------------
+
+Use the code created in ex 1 above.  
+
+* Sort the accounts in the bank based on Customer names
+* Sort based on amount of money the Customer has on the account 
+* Sort based on Customer and then on the amount. (hint: return a tuple)
+
+.. raw:: html
+   
+   <hr>
 
 ----------------
 Ex 2: Angry Bird
