@@ -23,10 +23,10 @@ So in python you will always see som top level syntax or top level functions and
                 
                 * `What Does It Take To Be An Expert At Python? <https://www.youtube.com/watch?v=cKPlPJyQrt4&t=0s>`_
                         * Todays topic is covered from the beginning to 20:50) 
-                * `Python's Magic Methods: Leverage Their Power in Your Classes <https://realpython.com/python-magic-methods>`_
+                * `Python's Magic Methods: Leverage Their Power in Your Classes <https://realpython.com/python-magic-methods>`
 
         Time in class
-                * `Notes from teachings <notebooks/notes01.ipynb>`_
+                * `Notebook on Datamodel <notebooks/OOP_Encapsulation_Propeties.ipynb#Datamodel>`_
                 * `Code examples from teachings <https://github.com/python-elective-kea/spring2024-code-examples-from-teachings/tree/master/ses9>`_
 
         Homework
