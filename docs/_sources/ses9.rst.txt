@@ -27,6 +27,7 @@ So in python you will always see som top level syntax or top level functions and
 
         Time in class
                 * `Notebook on Datamodel <notebooks/OOP_Encapsulation_Propeties.ipynb#Datamodel>`_
+                * `The spelled-out intro to neural networks and backpropagation: building micrograd <https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ>`_ (from 19:00 he gives the example i demoed in class)
                 * `Code examples from teachings <https://github.com/python-elective-kea/spring2024-code-examples-from-teachings/tree/master/ses9>`_
 
         Homework
