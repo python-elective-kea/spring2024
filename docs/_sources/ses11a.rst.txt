@@ -1,5 +1,5 @@
-Session 11.2 - Datanalyse og visualisering
-==========================================
+Session 11.2 - Python web frameworks
+====================================
 
 
 
