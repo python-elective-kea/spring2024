@@ -105,9 +105,3 @@ These pages contains everything you need for this elective. A few resources, lik
    ses14
    
 
-.. toctree::
-   :maxdepth: 2
-   :caption: SWA:
-
-   about
-   exam
