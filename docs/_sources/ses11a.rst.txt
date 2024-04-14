@@ -1,4 +1,4 @@
-Session 11.1 - Python web devlopment
+Session 11.2 - Python web devlopment
 ====================================
 Today we will work with web api development using the Python light weight web framework Flaks.
 We will also look at how module requirements and depency management are handled in Ptthon.

@@ -1,4 +1,4 @@
-Session 11.2 - Data analysis & visualization
+Session 11.1 - Data analysis & visualization
 ============================================
 Today we will be working with Data Analysis and Visualization. 
 
