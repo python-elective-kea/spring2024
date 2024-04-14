@@ -1,8 +1,8 @@
 Session 11.1 - Data analysis & visualization
 ============================================
-Today, we will be working with Data Analysis and Visualization.
-The material is borrowed from the first lesson of the fifth semester class at DTU, Data Analysis and Visualization.
-In addition to working with data analysis and modules like NumPy, pandas, and Matplotlib, you will also gain insight into what your fellow student colleagues at DTU are doing, even though they are a few semesters further ahead.
+Today, we will be working with Data Analysis and Visualization.    
+The material is borrowed from the first lesson of the fifth semester class at DTU, `Data Analysis and Visualization <https://github.com/suneman/socialdata2024/wiki>`_.      
+In addition to working with data analysis and modules like NumPy, pandas, and Matplotlib, you will also gain insight into what your fellow student colleagues at DTU are doing, even though they are a few semesters further ahead.    
 
 .. tip::
         Preperation
