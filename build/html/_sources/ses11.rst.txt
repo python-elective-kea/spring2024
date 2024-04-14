@@ -8,7 +8,7 @@ In addition to working with data analysis and modules like NumPy, pandas, and Ma
         Preperation
                 * There are no preperation for this class, just show up.
         Time in class
-                * [socialdata2024 week1](https://github.com/suneman/socialdata2024/blob/main/lectures/Week1.ipynb)
+                * `socialdata2024 week1 <https://github.com/suneman/socialdata2024/blob/main/lectures/Week1.ipynb>`_
                 * `Code examples from teachings <https://github.com/python-elective-kea/spring2024-code-examples-from-teachings/tree/master/ses11>`_
         Homework
 
@@ -22,6 +22,6 @@ When you have finnished this sessions materials you should be able to
 
 Materials
 ---------
-* [socialdata2024 week1](https://github.com/suneman/socialdata2024/blob/main/lectures/Week1.ipynb)
+* `socialdata2024 week1 <https://github.com/suneman/socialdata2024/blob/main/lectures/Week1.ipynb>`_
 
 
