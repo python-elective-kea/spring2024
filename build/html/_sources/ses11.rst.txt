@@ -1,6 +1,6 @@
 Session 11 - Data analysis & visualization
 ==========================================
-Today and next time we will end this electives topic list by working with Data Analysis and Visualization. 
+Today we will be working with Data Analysis and Visualization. 
 
 
 .. tip::

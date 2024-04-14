@@ -1,4 +1,4 @@
-Session 11.2 - Python web frameworks
+Session 11.2 - Python web devlopment
 ====================================
 
 
