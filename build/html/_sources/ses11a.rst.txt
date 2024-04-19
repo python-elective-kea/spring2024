@@ -1,13 +1,16 @@
 Session 11.2 - Python web devlopment
 ====================================
-Today we will work with web api development using the Python light weight web framework Flaks.
-We will also look at how module requirements and depency management are handled in Ptthon.
+Today we will work with web api development using the Python light weight web framework Flask.
+We will also look at how module requirements and depency management are handled in Python.
 
 .. tip::
         Preperation
                 * No preperation
         Time in class
-                * `Notebook from teachings <notebooks/notes_requirements_webscrabing.ipynb>`_   
+                * We will start by doing 'Ex1: outdated requirements'.     
+                * Then we will analyse the code in this exercise, and from this get an idea of what a Flask application will contain of code.    
+                * Then you should all work on Ex 2 for the rest of the class.    
+                        * You are free to do it in any way you wish. You already have the requirements for this exercise from your 3rd semester, and a way to solve this is by giving the requirements to Chatgpt and ask it for a solution done using Flask. Anyway you do it is fine.) 
                 * `Code examples from teachings <https://github.com/python-elective-kea/spring2024-code-examples-from-teachings/tree/master/ses11.1>`_
         Homework
 
@@ -22,8 +25,8 @@ Materials
 ---------
 
 * `Notebook from teachings <notebooks/notes_requirements_webscrabing.ipynb>`_
-
-
+* `Flask Tutorials (youtube) <https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX>`_
+* 
 Exercises
 ---------
 
