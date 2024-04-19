@@ -5,7 +5,8 @@ We will also look at how module requirements and depency management are handled 
 
 .. tip::
         Preperation
-                * No preperation
+                You are welcome to have a look at these tutorials, but it is also ok if you do not.
+                * `Flask Tutorials (youtube) <https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX>`_
         Time in class
                 * We will start by doing 'Ex1: outdated requirements'.     
                 * Then we will analyse the code in this exercise, and from this get an idea of what a Flask application will contain of code.    
@@ -26,7 +27,7 @@ Materials
 
 * `Notebook from teachings <notebooks/notes_requirements_webscrabing.ipynb>`_
 * `Flask Tutorials (youtube) <https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX>`_
-* 
+
 Exercises
 ---------
 
