@@ -6,7 +6,9 @@ We will also look at how module requirements and depency management are handled 
 .. tip::
         Preperation
                 You are welcome to have a look at these tutorials, but it is also ok if you do not.
+   
                 * `Flask Tutorials (youtube) <https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX>`_
+        
         Time in class
                 * We will start by doing 'Ex1: outdated requirements'.     
                 * Then we will analyse the code in this exercise, and from this get an idea of what a Flask application will contain of code.    
@@ -27,6 +29,7 @@ Materials
 
 * `Notebook from teachings <notebooks/notes_requirements_webscrabing.ipynb>`_
 * `Flask Tutorials (youtube) <https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX>`_
+* `Students Flaks api exercise <https://github.com/python-elective-kea/students_flaks_api_exercise>`_
 
 Exercises
 ---------
@@ -37,7 +40,7 @@ Ex1: outdated requirements:
 
 Do this exercise as an inspiration starter
 
-* [Students Flaks api exercise](https://github.com/python-elective-kea/students_flaks_api_exercise)
+* `Students Flaks api exercise <https://github.com/python-elective-kea/students_flaks_api_exercise>`_
 
 
 
