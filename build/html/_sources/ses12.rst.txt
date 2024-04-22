@@ -7,4 +7,5 @@ This mandatory assignment will be an assignment you should do during the 3 hours
 The assignment and the handin folder can be found on Fronter:
 
 
-The assignment is online and can be done from home.
+The assignment is online and can be done from home, and there will be no formal teachings at the school today.
+
