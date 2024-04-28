@@ -45,7 +45,7 @@ This you should do through demonstrating your knowlege, skills and competencies 
         3. Functions in python (Build-in functions, functions in general, decorators e.g)
         4. Data analyse & visualization 
 
-You can get inspiration about what to talk about within each topic in your presentation `here <_notebooks/exam_synopsis_template.md>`_.
+You can get inspiration about what to talk about within each topic in your presentation `here <notebooks/exam_synopsis_template.md>`_.
 
 Good advice regarding the exam
 ******************************

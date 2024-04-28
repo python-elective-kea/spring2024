@@ -6,6 +6,10 @@ This mandatory assignment will be an assignment you should do during the 3 hours
 
 The assignment and the handin folder can be found on Fronter:
 
+https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1258059
 
-The assignment is online and can be done from home, and there will be no formal teachings at the school today.
+
+The assignment is online and can be done from home.    
+
+There will be no formal teachings at the school today.
 
